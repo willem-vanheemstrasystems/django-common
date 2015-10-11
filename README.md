@@ -1,0 +1,2 @@
+# django-common
+Django Common
